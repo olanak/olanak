@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Olana Kenea!
 
-<!--
-**olanak/olanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Junior Machine Learning Engineer** | 💻 System Administrator | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+I specialize in **machine learning, automation, and enterprise IT systems**. My interests include **MLOps, AI-powered automation, and cloud computing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Tech Stack:**
+- 🧠 ML & AI: Python, TensorFlow, PyTorch, Scikit-learn
+- 📊 Data & Databases: PostgreSQL, SQL, Big Data (Spark, Hadoop)
+- 🛠️ MLOps & Deployment: Docker, Kubernetes, FastAPI, CI/CD
+- 🖥️ Infrastructure & Automation: Ansible, VMware, AIX, Linux
+
+🌱 **Currently Learning:** Deep Learning, NLP, and Enterprise AI  
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) | [Portfolio](#)  
+
+---
+🚀 **Check out my projects below!**
