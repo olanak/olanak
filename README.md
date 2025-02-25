@@ -11,7 +11,7 @@ I specialize in **machine learning, automation, and enterprise IT systems**. My 
 - 🖥️ Infrastructure & Automation: Ansible, VMware, AIX, Linux
 
 🌱 **Currently Learning:** Deep Learning, NLP, and Enterprise AI  
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) | [Portfolio](#)  
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) | [Portfolio](https://sites.google.com/view/olanak/home)  
 
 ---
 🚀 **Check out my projects below!**
