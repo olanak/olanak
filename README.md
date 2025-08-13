@@ -2,7 +2,7 @@
 
 🔹 **Junior Data Engineer** | 💻 System Administrator | 🚀 Tech Enthusiast  
 
-I specialize in **machine learning, automation, and enterprise IT systems**. My interests include **MLOps, AI-powered automation, and cloud computing**.
+I specialize in **Data Engineering, automation, and enterprise IT systems**. My interests include **MLOps, AI-powered automation, and cloud computing**.
 
 ### 🚀 **Tech Stack:**
 - 🧠 ML & AI: Python, TensorFlow, PyTorch, Scikit-learn
