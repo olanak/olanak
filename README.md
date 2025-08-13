@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olana Kenea!
 
-🔹 **Junior Data Engineer** | 💻 System Administrator | 🚀 Tech Enthusiast  
+🔹 **Data Engineer** | 💻 System Administrator | 🚀 Tech Enthusiast  
 
 I specialize in **Data Engineering, automation, and enterprise IT systems**. My interests include **MLOps, AI-powered automation, and cloud computing**.
 
