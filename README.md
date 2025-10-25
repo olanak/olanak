@@ -1,16 +1,19 @@
-# 👋 Hi, I'm Olana Kenea!
+👋 **Hi, I'm Olana Kenea!**  
+🚀 **Cloud Engineer | 💻 System Administrator | Full Stack Web Developer (MERN)**  
 
-🔹 **Data Engineer** | 💻 System Administrator | 🚀 Tech Enthusiast  
+Passionate about building scalable cloud infrastructures, automating systems, and developing full-stack web applications. I enjoy solving real-world problems through code, automation, and innovation.  
 
-I specialize in **Data Engineering, automation, and enterprise IT systems**. My interests include **MLOps, AI-powered automation, and cloud computing**.
+---
 
-### 🚀 **Tech Stack:**
-- 🧠 ML & AI: Python, TensorFlow, PyTorch, Scikit-learn
-- 📊 Data & Databases: PostgreSQL, SQL, Big Data (Spark, Hadoop)
-- 🛠️ MLOps & Deployment: Docker, Kubernetes, FastAPI, CI/CD
-- 🖥️ Infrastructure & Automation: Ansible, VMware, AIX, Linux
+### 🧠 Skills & Technologies  
+- **Cloud & DevOps:** GCP, Linux, Ansible, Docker, Kubernetes  
+- **System Administration:** RHEL, AIX, VMware, Nutanix HCI  
+- **Web Development:** MongoDB, Express.js, React, Node.js (MERN Stack)  
+- **Interests:** Infrastructure as Code, Automation, and Scalable App Development  
 
-🌱 **Currently Learning:** Deep Learning, NLP, and Enterprise AI  
+---
+
+🌱 *Always learning. Always building.*  
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) | [Portfolio](https://sites.google.com/view/olanak/home)  
 
 ---
