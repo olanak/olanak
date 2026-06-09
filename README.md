@@ -1,20 +1,32 @@
-👋 **Hi, I'm Olana Kenea!**  
-🚀 **Cloud Engineer | 💻 System Administrator | Full Stack Web Developer (MERN)**  
+### 👋 Hi, I'm Olana Kenea
 
-Passionate about building scalable cloud infrastructures, automating systems, and developing full-stack web applications. I enjoy solving real-world problems through code, automation, and innovation.  
+**Cloud Security Engineer | GRC | Infrastructure-as-Code**
 
----
+I secure the systems people can't afford to have fail. My path runs from critical infrastructure — power and core banking at the **Commercial Bank of Ethiopia** — into cloud-native security and the EU regulatory landscape: **DORA, NIS2, and the AI Act**.
 
-### 🧠 Skills & Technologies  
-- **Cloud & DevOps:** GCP, Linux, Ansible, Docker, Kubernetes  
-- **System Administration:** RHEL, AIX, VMware, Nutanix HCI  
-- **Web Development:** MongoDB, Express.js, React, Node.js (MERN Stack)  
-- **Interests:** Infrastructure as Code, Automation, and Scalable App Development  
+Currently an **Erasmus Mundus scholar** in Applied Cybersecurity (Turkey → Germany 🇩🇪), building security as code and translating dense regulation into infrastructure you can actually deploy and test.
 
 ---
 
-🌱 *Always learning. Always building.*  
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) | [Portfolio](https://sites.google.com/view/olanak/home)  
+#### 🧠 Focus Areas
+
+- **Cloud Security:** AWS Security · IAM & Zero Trust · KMS · VPC · GuardDuty · Security Hub
+- **Infrastructure as Code & DevSecOps:** Terraform · Docker · Kubernetes · CI/CD Security · OPA/Rego
+- **GRC & Compliance:** DORA · NIS2 · EU AI Act · ISO 27001 · NIST RMF
+- **Security Operations:** Detection Engineering (Sigma) · SIEM · Threat Modeling · Incident Response
+- **Languages:** Python · Bash · HCL · YAML · SQL
+
+#### 🔭 Currently Building
+
+- **aws-nis2-baseline** — Terraform AWS landing zone mapped to NIS2 Article 21 & ISO 27001
+- Researching automated **DORA incident classification** with policy-as-code (Rego + SMT)
+
+#### 🌱 Currently Deepening
+
+AWS Solutions Architect & Security · Kubernetes Security
 
 ---
-🚀 **Check out my projects below!**
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/olana-kenea) · [Portfolio](https://olanakenea.me/)
+
+*Always learning. Always building.*
