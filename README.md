@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Olana Kenea
 
-**Cloud Security Engineer | GRC | Infrastructure-as-Code**
+**Cloud Security & IAM | GRC | Infrastructure-as-Code**
 
 I secure the systems people can't afford to have fail. My path runs from critical infrastructure — power and core banking at the **Commercial Bank of Ethiopia** — into cloud-native security and the EU regulatory landscape: **DORA, NIS2, and the AI Act**.
 
