@@ -79,7 +79,7 @@ Linux, IBM AIX, Node.js, React, Express, PostgreSQL, Docker, VMware, Nutanix HCI
 </details>
 
 ## ☕ Outside the Terminal
-When I'm not configuring cloud security or participating in CTFs (like the SANS BHM challenges), you can find me:
+When I'm not configuring cloud security or participating in CTFs, you can find me:
 - 🎧 Listening to Teddy Afro while debugging infrastructure code.
 - 📱 Filming and scripting educational tech shorts for my digital channels.
 
