@@ -1,69 +1,71 @@
 <div align="center">
-  <h1>👋 Hello, I'm Olana kenea</h1>
-  <p><b>IT Infrastructure • Cloud Security • Cybersecurity • IAM • DevSecops • IaC</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Olana+kenea+👋;Cloud+Security+%7C+IAM+%7C+Automation;Building+Infrastructure+as+Code;Erasmus+Mundus+CyberMACS+Scholar" alt="Typing SVG" />
   
   <p>
     <a href="https://github.com/olanak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
+</div>
 
+<br>
+
+<div align="center">
+  <h3>🛠️ Architecture & Automation Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </p>
 </div>
 
-## 🧭 About Me
-I am an IT Infrastructure and Cybersecurity professional focusing on building, automating, and securing enterprise environments. I'm currently pursuing my Erasmus Mundus Joint Master's in Applied Cybersecurity (**CyberMACS**) at Kadir Has University & SRH Berlin University.
-
-- 🔐 **Core Focus:** Identity & Access Management (IAM), Cloud Security, and Infrastructure as Code (IaC).
-- 🗣️ **Languages:** Currently practicing my German and Turkish alongside my technical studies.
-- 🎥 **Creator:** I share tech insights and educational content on *Tip Talk with Olana* and *PathwayET*.
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **AWS NIS2 Security Baseline** | A Terraform-based AWS security baseline translating NIS2 security requirements into repeatable cloud controls. | `Terraform`, `AWS`, `Checkov`, `GitHub Actions` |
-| **GakiAI** | A local AI language model web application featuring custom storefront interfaces and Google OAuth. | `React`, `Node.js`, `Docker`, `PostgreSQL` |
-| **SkillBridge** | A MERN-stack platform providing skill-matching and curated learning resources for youth. | `Express`, `React`, `PostgreSQL` |
-| **Azure Cloud Security WAF Lab** | A hands-on environment exploring secure application exposure, WAF protection, and network architecture. | `Azure`, `Terraform`, `WAF` |
-| **Drone ML Segmentation** | Research and implementation of SegFormer deep learning models for semantic segmentation on drone footage. | `Python`, `Machine Learning`, `Computer Vision` |
-
-## 🏢 Enterprise Experience
-* **Commercial Bank of Ethiopia (IS Officer):** Managed enterprise infrastructure, automating server provisioning and operational workflows with Ansible on IBM Power/AIX environments.
-* **Ethiopian Electric Utility (Junior System Administrator):** Supported distributed IT operations, securing Active Directory, Linux networks, and SAP environments.
-
-## 🧰 Technical Toolbox
+<br>
 
 <details>
-<summary><b>☁️ Cloud, Security & IaC</b></summary>
-AWS, Azure, Terraform, Ansible, Vulnerability Management, Security Baselines, CI/CD Security, Microsoft Entra ID, Conditional Access.
+  <summary><b>👨‍💻 Behind the Code (Click to Expand)</b></summary>
+  <br>
+  <p>I am an IT Infrastructure and Cybersecurity professional focusing on building, automating, and securing enterprise environments. I'm currently completing my Master's in Applied Cybersecurity at Kadir Has University & SRH Berlin University.</p>
+  <p>When I'm not configuring IAM policies or tackling challenges like the SANS BHM CTF, I'm likely practicing my German and Turkish, listening to Teddy Afro, or scripting tech content for my digital channels.</p>
 </details>
 
 <details>
-<summary><b>🖥️ Full-Stack & Systems</b></summary>
-Linux, IBM AIX, Node.js, React, Express, PostgreSQL, Docker, VMware, Nutanix HCI.
+  <summary><b>🏢 Enterprise Experience (Click to Expand)</b></summary>
+  <br>
+  <p><b>Commercial Bank of Ethiopia:</b> Managed enterprise infrastructure, automating server provisioning and operational workflows with Ansible on IBM Power/AIX environments.</p>
+  <p><b>Ethiopian Electric Utility:</b> Supported distributed IT operations, securing Active Directory, Linux networks, and enterprise SAP environments.</p>
 </details>
 
-## 📊 GitHub Activity
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olanak&show_icons=true&hide_border=true&theme=transparent" alt="olanak's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olanak&hide_border=true&theme=transparent" alt="olanak's GitHub Streak" width="48%">
+  <h3>🚀 Featured Engineering</h3>
+  
+  <a href="https://github.com/olanak/aws-nis2-baseline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olanak&repo=aws-nis2-baseline&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="AWS NIS2 Baseline" width="48%">
+  </a>
+  <a href="https://github.com/olanak/GakiAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olanak&repo=GakiAI&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="Gaki AI" width="48%">
+  </a>
+  <br>
+  <a href="https://github.com/olanak/SkillBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olanak&repo=SkillBridge&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="SkillBridge" width="48%">
+  </a>
+  <a href="https://github.com/olanak/Azure-WAF-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olanak&repo=Azure-WAF-Lab&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="Azure Cloud Security WAF Lab" width="48%">
+  </a>
 </div>
 
-## ☕ Outside the Terminal
-When I'm not configuring cloud security or participating in CTFs (like the SANS BHM challenges), you can find me:
-- 🎧 Listening to Teddy Afro while debugging infrastructure code.
-- 📱 Filming and scripting educational tech shorts for my digital channels.
-- 🔧 Tinkering with mobile hardware maintenance.
+<br>
 
 <div align="center">
-  <br>
-  <i>🛡️ Secure Infrastructure • ⚙️ Automate Operations • ☁️ Build for the Cloud</i>
+  <h3>📊 Activity & Impact</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=olanak&show_icons=true&hide_border=true&theme=transparent&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olanak&hide_border=true&theme=transparent&title_color=0078D4&icon_color=0078D4" alt="GitHub Streak" width="48%">
+  
+  <br><br>
+  <p><i>🛡️ Secure Infrastructure • ⚙️ Automate Operations • ☁️ Build for the Cloud</i></p>
 </div>
