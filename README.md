@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Olana kenea</h1>
-  <p><b>IT Infrastructure • Cloud Security • IAM • Cybersecurity • Automation</b></p>
+  <p><b>IT Infrastructure • Cloud Security • Cybersecurity • IAM • DevSecops • IaC</b></p>
   
   <p>
     <a href="https://github.com/olanak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
