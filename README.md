@@ -1,348 +1,331 @@
 <div align="center">
 
-👋 Hi, I'm Olana Kenea
+👋 Olana Kenea
 
-🖥️ IT Infrastructure & Systems
-
-☁️ Cloud Security • 🔐 IAM • 🛡️ Cybersecurity • ⚙️ Automation
+IT Infrastructure • Cloud Security • IAM • Cybersecurity • Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Infrastructure-Systems-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-Security-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/IAM-Zero%20Trust-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automation-Ansible%20%7C%20Terraform-green?style=for-the-badge">
+  <a href="https://github.com/olanak">
+    <img src="https://img.shields.io/badge/GitHub-olanak-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/IBM%20AIX-052FAD?style=flat-square&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Entra%20ID-5E5E5E?style=flat-square&logo=microsoft&logoColor=white">
 </p>
 
 </div>
 
-🧑‍💻 Who Am I?
+🧭 About Me
 
-I'm an IT Infrastructure & Cybersecurity professional with 5+ years of
-hands-on experience supporting enterprise environments across banking and
-utility organizations.
+I'm an IT Infrastructure and Cybersecurity professional focused on building,
+operating, automating, and securing enterprise environments.
 
-My journey has taken me from:
+My experience spans IT support, systems administration, enterprise infrastructure,
+identity and access management, cloud security, and security automation.
 
-IT Support → Systems Administration → Enterprise Infrastructure → Cloud Security & IAM
+IT SUPPORT
+    │
+    ▼
+SYSTEM ADMINISTRATION
+    │
+    ▼
+ENTERPRISE INFRASTRUCTURE
+    │
+    ├──────────────┐
+    ▼              ▼
+CLOUD          AUTOMATION
+    │              │
+    └──────┬───────┘
+           ▼
+    CLOUD SECURITY
+           │
+      ┌────┴────┐
+      ▼         ▼
+     IAM       GRC
 
-I enjoy working where infrastructure, automation and security meet.
+🔐 Build it. Automate it. Secure it. Document it.
 
-                    ┌──────────────────────┐
-                    │      IT SUPPORT      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ SYSTEM ADMINISTRATION│
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │    INFRASTRUCTURE    │
-                    └──────────┬───────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-              ☁️ CLOUD                   ⚙️ AUTOMATION
-                 │                           │
-                 └─────────────┬─────────────┘
-                               ▼
-                    🔐 CLOUD SECURITY
-                               │
-                               ▼
-                         🛡️ CYBERSECURITY
+⚡ At a Glance
 
-🛠️ What I Work With
+Area
 
-🖥️ Systems & Infrastructure
+Focus
 
-Linux IBM AIX Windows Server IBM Power Systems
+🖥️ Infrastructure
 
-VMware Nutanix HCI PowerHA Enterprise Storage
+Linux, IBM AIX, IBM Power, VMware, Nutanix
 
-🔐 Identity & Access
+🔐 Identity
 
-Active Directory Microsoft Entra ID GPO
+Active Directory, Entra ID, IAM, PIM, Conditional Access
 
-User Lifecycle Permissions Authentication
+☁️ Cloud
 
-Authorization PIM Conditional Access
+AWS, Azure, cloud security architecture
 
-☁️ Cloud & Infrastructure Security
+⚙️ Automation
 
-AWS Azure Terraform Ansible
-
-Cloud Security Architecture Security Baselines
-
-Cloud Hardening Cloud Monitoring IaC
-
-🌐 Network & IT Operations
-
-TCP/IP LAN Routers Switches Firewalls
-
-Network Troubleshooting Endpoint Deployment
-
-Remote Support Enterprise Application Support
+Ansible, Terraform, Bash, PowerShell
 
 🛡️ Security
 
-Security Hardening Vulnerability Remediation
+Hardening, vulnerability remediation, endpoint security
 
-Endpoint Security Antivirus DLP
+🌐 Networking
 
-Access Control Security Controls
+TCP/IP, LAN, routing, switching, firewalls
 
-Infrastructure Security
+📋 Governance
 
-🚀 Things I've Built
+NIS2, DORA, ISO 27001, security controls
+
+🚀 Featured Projects
 
 🛡️ AWS NIS2 Security Baseline
 
-A reusable Terraform-based AWS security baseline translating NIS2
-security requirements into repeatable and testable cloud controls.
+Security controls as Infrastructure as Code.
 
-Highlights
+A Terraform-based AWS security baseline designed to translate NIS2 security
+requirements into repeatable cloud controls.
 
-🏗️ Terraform security modules
-
-🔐 IAM and cloud security controls
-
-📋 NIS2 Article 21 alignment
-
-🔍 tfsec security scanning
-
-🔎 Checkov validation
-
-🧹 TFLint
-
-⚙️ GitHub Actions CI/CD
-
-👉 View Repository
+AWS Terraform NIS2 IAM Checkov tfsec TFLint GitHub Actions
 
 🔐 Entra Conditional Access Library
 
-A code-based Microsoft Entra ID security library containing 17
-Conditional Access + PIM patterns, mapped to MITRE ATT&CK.
+Reusable identity security patterns.
 
-Highlights
+A collection of Conditional Access and PIM patterns designed around practical
+identity security and mapped to MITRE ATT&CK techniques.
+
+Microsoft Entra ID Conditional Access PIM Terraform PowerShell
+
+☁️ Azure Cloud Security WAF Lab
+
+A hands-on cloud security environment.
+
+An Azure lab exploring secure application exposure, WAF protection,
+network architecture, monitoring, and Infrastructure as Code.
+
+Azure Terraform WAF Networking Cloud Security
+
+🤖 Cybersecurity RAG Chatbot
+
+Exploring AI-assisted cybersecurity knowledge retrieval.
+
+A cybersecurity-focused RAG application combining document ingestion,
+retrieval, embeddings, and an LLM interface.
+
+Python FastAPI LangChain Chroma Hugging Face Qwen
+
+⚙️ Automation
+
+One of my strongest interests is turning repetitive infrastructure work
+into reliable, repeatable automation.
+
+🏦 Enterprise AIX Automation
+
+At Commercial Bank of Ethiopia, I worked with IBM Power/AIX environments
+and used Ansible automation for server provisioning and recurring
+operational workflows.
+
+Manual Provisioning
+       │
+       ▼
+  Repetitive Tasks
+       │
+       ▼
+ ┌─────────────┐
+ │   Ansible   │
+ └──────┬──────┘
+        ▼
+Standardized Provisioning
+        │
+        ▼
+Less Manual Work
++ Better Consistency
+
+🏢 Enterprise Experience
+
+🏦 Commercial Bank of Ethiopia
+
+IS Officer — Server Management
+
+Worked with enterprise infrastructure including:
+
+IBM Power • AIX • PowerHA • VMware • Nutanix
+
+Enterprise Storage • Oracle • PostgreSQL • Ansible
+
+Focus areas included infrastructure operations, provisioning,
+troubleshooting, automation, system availability, and operational support.
+
+⚡ Ethiopian Electric Utility
+
+Junior System Administrator
+
+Worked across enterprise IT operations with emphasis on:
+
+Active Directory • Windows • Linux • Networking
+
+SAP • Endpoint Support • Security Controls • Automation
+
+Supported users and infrastructure across multiple locations while
+automating repetitive administrative and operational tasks.
+
+🖥️ Junior ICT Officer
+
+Provided second-level IT support across distributed locations,
+troubleshooting endpoints, network connectivity, enterprise applications,
+and user access issues.
+
+🔐 Security Focus
+
+My current technical focus sits at the intersection of:
+
+              ☁️ CLOUD
+                 │
+        ┌────────┼────────┐
+        ▼        ▼        ▼
+      IAM     NETWORK    WORKLOAD
+        │        │        │
+        └────────┼────────┘
+                 ▼
+           🛡️ SECURITY
+                 │
+        ┌────────┼────────┐
+        ▼        ▼        ▼
+      IaC      MONITORING   GRC
+
+Areas I'm building deeper expertise in
+
+🔑 Identity & Access Management
+
+☁️ AWS & Azure Security
+
+🏗️ Infrastructure as Code
+
+⚙️ Security Automation
+
+🛡️ Infrastructure Hardening
+
+📋 NIS2 / DORA / ISO 27001
+
+🔍 Security Monitoring
+
+🌐 Cloud & Network Security
+
+🧰 Technical Toolbox
+
+<details>
+<summary>🖥️ Systems & Infrastructure</summary>
+
+Linux
+
+IBM AIX
+
+IBM Power Systems
+
+Windows Server
+
+VMware
+
+Nutanix HCI
+
+PowerHA
+
+Enterprise Storage
+
+</details>
+
+<details>
+<summary>🔐 Identity & Access</summary>
+
+Active Directory
 
 Microsoft Entra ID
+
+Group Policy
 
 Conditional Access
 
 Privileged Identity Management
 
+Authentication & Authorization
+
+Access Lifecycle Management
+
+</details>
+
+<details>
+<summary>☁️ Cloud & IaC</summary>
+
+AWS
+
+Azure
+
 Terraform
 
-Graph PowerShell
+Ansible
 
-MITRE ATT&CK
+Cloud Security
 
-Microsoft Sentinel
+Security Baselines
 
-🤖 AI Policy Gate
+Infrastructure as Code
 
-A policy-as-code security gate designed to prevent non-compliant
-AI deployments.
-
-AI Deployment
-      │
-      ▼
-┌─────────────┐
-│ Policy Gate │
-└──────┬──────┘
-       │
-       ├── EU AI Act
-       ├── NIST AI RMF
-       └── OPA / Rego
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-    ❌ BLOCK       ✅ ALLOW
-       │
-       ▼
-Tamper-Evident
-Audit Evidence
-
-Stack
-
-Python OPA Rego Policy-as-Code
-
-☁️ Cloud Security Lab
-
-One of my favorite areas to experiment with:
-
-             INTERNET
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Application GW  │
-        │      + WAF      │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    Backend      │
-        │    Services     │
-        └────────┬────────┘
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-   🔐 Security       📊 Monitoring
-     Controls
-
-I use these labs to explore:
-
-Azure AWS Terraform Networking
-
-WAF IAM Monitoring Cloud Security
-
-⚙️ Automation Is My Superpower
-
-One of my favorite infrastructure projects involved automating
-AIX server provisioning with Ansible.
-
-Before
-
-Server provisioning
-        │
-        ▼
-   ~ 2 HOURS
-
-After ⚡
-
-Server provisioning
-        │
-        ▼
-   Ansible Automation
-        │
-        ▼
-    ~ 30 MINUTES
-
-The automation was standardized across 150+ servers.
-
-2 hours → 30 minutes
-
-Less repetition.
-More consistency.
-Fewer opportunities for human error.
-
-🏦 Enterprise Infrastructure
-
-I've worked with infrastructure supporting large enterprise environments
-in banking and utility organizations.
-
-Commercial Bank of Ethiopia
-
-IBM Power • AIX • VMware • Linux • Windows
-
-PowerHA • Enterprise Storage • Ansible
-
-Provisioning, configuration, patching, monitoring, troubleshooting and
-infrastructure resilience.
-
-Ethiopian Electric Utility
-
-Supported 500+ employees across 15 locations, including:
-
-Active Directory • Networking • Firewalls
-
-Endpoints • Enterprise Applications • SAP
-
-Antivirus • DLP • Remote Support
-
-🔥 My Engineering Philosophy
-
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    AUTOMATE   │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     SECURE    │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     TEST      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────────────┘
-
-If I have to do something more than twice, I start thinking about
-how to automate it.
-
-🧠 Currently Exploring
-
-<details>
-<summary>☁️ Cloud Security</summary>
-
-AWS and Azure security architecture, cloud IAM, security baselines,
-network security and secure infrastructure design.
+CI/CD Security
 
 </details>
 
 <details>
-<summary>🔐 Identity & Zero Trust</summary>
+<summary>🌐 Networking</summary>
 
-Microsoft Entra ID, Conditional Access, PIM, IAM architecture and
-Zero Trust security models.
+TCP/IP
+
+LAN
+
+Routing & Switching
+
+Firewalls
+
+DNS
+
+Network Troubleshooting
+
+Enterprise Connectivity
 
 </details>
 
 <details>
-<summary>⚙️ Infrastructure as Code</summary>
+<summary>🛡️ Security</summary>
 
-Terraform, Ansible, policy-as-code, configuration management and
-automated security validation.
+Vulnerability Management
+
+Security Hardening
+
+Endpoint Security
+
+Antivirus
+
+DLP
+
+Security Controls
+
+Security Monitoring
+
+Incident Investigation
 
 </details>
-
-<details>
-<summary>🛡️ Security Governance</summary>
-
-NIS2, DORA, ISO 27001 and translating security requirements into
-technical controls.
-
-</details>
-
-📜 Certifications
-
-Certification
-
-Area
-
-🎓 Microsoft Certified: Identity & Access Administrator Associate
-
-IAM
-
-☁️ Google Cloud Associate Cloud Engineer
-
-Cloud
-
-☸️ Kubernetes & Cloud Native Associate
-
-Cloud Native
-
-🛡️ ISC2 Certified in Cybersecurity
-
-Cybersecurity
-
-🔐 Certified Network Security Practitioner
-
-Network Security
-
-🔑 APIsec Certified Practitioner
-
-API Security
-
-🖥️ Nutanix Certified Associate
-
-Infrastructure
 
 🎓 Education
 
@@ -361,90 +344,93 @@ Jimma University
 
 University of Gondar
 
-📊 GitHub
+📜 Certifications
+
+🎓 Microsoft Certified: Identity and Access Administrator Associate
+
+☁️ Google Cloud Associate Cloud Engineer
+
+☸️ Kubernetes and Cloud Native Associate
+
+🛡️ ISC2 Certified in Cybersecurity
+
+🔐 Certified Network Security Practitioner
+
+🔑 APIsec Certified Practitioner
+
+🖥️ Nutanix Certified Associate
+
+🧠 Currently Learning
+
+cloud_security:
+  - AWS
+  - Azure
+  - Cloud IAM
+  - Secure Networking
+
+identity:
+  - Microsoft Entra ID
+  - Conditional Access
+  - PIM
+  - Zero Trust
+
+automation:
+  - Terraform
+  - Ansible
+  - Policy as Code
+
+governance:
+  - NIS2
+  - DORA
+  - ISO 27001
+
+📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=olanak&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=olanak&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=olanak&theme=transparent&hide_border=true" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olanak&hide_border=true&theme=transparent" alt="GitHub Streak">
 
 </div>
 
-🧩 A Few Things About Me
+☕ Outside the Terminal
 
-name: Olana Kenea
+☕ Coffee
+   +
+🐧 Linux
+   +
+🔐 Security
+   +
+⚙️ Automation
+   +
+📚 Learning
+   =
+🚀 Productive Day
 
-focus:
-  - IT Infrastructure
-  - Cloud Security
-  - Cybersecurity
-  - Identity & Access Management
-  - Automation
-  - Infrastructure as Code
-
-favorite_tools:
-  - Linux
-  - Ansible
-  - Terraform
-  - Azure
-  - AWS
-  - Microsoft Entra
-  - Git
-
-current_mission:
-  "Build secure infrastructure and automate everything possible."
-
-operating_mode:
-  "Terminal + Coffee + Documentation ☕"
-
-🌍 The Direction I'm Heading
-
-IT SUPPORT
-     │
-     ▼
-SYSTEM ADMINISTRATION
-     │
-     ▼
-INFRASTRUCTURE
-     │
-     ▼
-CLOUD
-     │
-     ▼
-CLOUD SECURITY
-     │
-     ├──────────────► IAM
-     │
-     ├──────────────► DEVSECOPS
-     │
-     └──────────────► GRC
-
-My goal is to combine hands-on infrastructure engineering with
-cloud security, IAM, automation and security governance.
+I like understanding how systems work, finding where they can fail,
+and then making them more reliable, automated, and secure.
 
 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/olana-kenea">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://github.com/olanak">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://olanak.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome">
-</a>
-
-<a href="mailto:olanakenea6@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
 
 <div align="center">
 
-🛡️ Secure the infrastructure. ⚙️ Automate the boring stuff. ☁️ Build for the cloud.
+🛡️ Secure Infrastructure • ⚙️ Automate Operations • ☁️ Build for the Cloud
 
-Thanks for stopping by! ⭐
+⭐ If you find something useful here, feel free to explore the repositories.
 
 </div>
