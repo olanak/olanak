@@ -22,7 +22,6 @@
 I am an IT Infrastructure and Cybersecurity professional focusing on building, automating, and securing enterprise environments. I'm currently pursuing my Erasmus Mundus Joint Master's in Applied Cybersecurity (**CyberMACS**) at Kadir Has University & SRH Berlin University.
 
 - 🔐 **Core Focus:** Identity & Access Management (IAM), Cloud Security, and Infrastructure as Code (IaC).
-- 🗣️ **Languages:** Currently practicing my German and Turkish alongside my technical studies.
 - 🎥 **Creator:** I share tech insights and educational content on *Tip Talk with Olana* and *PathwayET*.
 
 ## 🚀 Featured Projects
@@ -36,18 +35,18 @@ A Terraform-based AWS security baseline translating NIS2 security requirements i
 </details>
 
 <details>
-<summary>🤖 <b>GakiAI</b></summary>
+<summary>🛑 <b>AI Policy Gate</b></summary>
 <blockquote>
-A local AI language model web application featuring custom storefront interfaces and Google OAuth. <br><br>
-<i>Tech Stack:</i> <code>React</code>, <code>Node.js</code>, <code>Docker</code>, <code>PostgreSQL</code>
+A Policy-as-Code enforcement engine for AI deployment pipelines. Proactively blocks non-compliant AI systems before they reach production and generates tamper-evident audit records for continuous governance. <br><br>
+<i>Tech Stack:</i> <code>Policy-as-Code</code>, <code>DevSecOps</code>, <code>Audit Logging</code>, <code>AI/MLOps Security</code>
 </blockquote>
 </details>
 
 <details>
-<summary>🎓 <b>SkillBridge</b></summary>
+<summary>🔐 <b>Entra ID Security Patterns as Code</b></summary>
 <blockquote>
-A MERN-stack platform providing skill-matching and curated learning resources for youth. <br><br>
-<i>Tech Stack:</i> <code>Express</code>, <code>React</code>, <code>PostgreSQL</code>
+Enterprise-grade identity security patterns for Microsoft Entra ID. Features production-ready Conditional Access, tenant authorization, and Privileged Identity Management mapped to MITRE ATT&CK frameworks, fully deployed as code. <br><br>
+<i>Tech Stack:</i> <code>Microsoft Entra ID</code>, <code>Terraform (azuread)</code>, <code>PowerShell</code>, <code>MITRE ATT&CK</code>
 </blockquote>
 </details>
 
@@ -67,10 +66,6 @@ Research and implementation of SegFormer deep learning models for semantic segme
 </blockquote>
 </details>
 
-## 🏢 Enterprise Experience
-* **Commercial Bank of Ethiopia (IS Officer):** Managed enterprise infrastructure, automating server provisioning and operational workflows with Ansible on IBM Power/AIX environments.
-* **Ethiopian Electric Utility (Junior System Administrator):** Supported distributed IT operations, securing Active Directory, Linux networks, and SAP environments.
-
 ## 🧰 Technical Toolbox
 
 <details>
@@ -87,7 +82,6 @@ Linux, IBM AIX, Node.js, React, Express, PostgreSQL, Docker, VMware, Nutanix HCI
 When I'm not configuring cloud security or participating in CTFs (like the SANS BHM challenges), you can find me:
 - 🎧 Listening to Teddy Afro while debugging infrastructure code.
 - 📱 Filming and scripting educational tech shorts for my digital channels.
-- 🔧 Tinkering with mobile hardware maintenance.
 
 <div align="center">
   <br>
