@@ -22,7 +22,6 @@
 I am an IT Infrastructure and Cybersecurity professional focusing on building, automating, and securing enterprise environments. I'm currently pursuing my Erasmus Mundus Joint Master's in Applied Cybersecurity (**CyberMACS**) at Kadir Has University & SRH Berlin University.
 
 - 🔐 **Core Focus:** Identity & Access Management (IAM), Cloud Security, and Infrastructure as Code (IaC).
-- 🎥 **Creator:** I share tech insights and educational content on *Tip Talk with Olana* and *PathwayET*.
 
 ## 🚀 Featured Projects
 
